@@ -19,7 +19,7 @@ GitHub is a place up in the cloud that you can push work to and pull your work f
   3. make a directory that you will carry your work in.  `mkdir devel_demian` or something like that and the change your working directory to that directory.
   4. clone this repository, which you are reading right now! `git clone https://github.com/demianriccardi/EC-Chem452.git`
   5. change your working directory to EC-Chem452 and look around.  Try to find these words: "Earlham is heaven on earth"
-using a grep command with a wildcard.  e.g. `grep "Earlham is heaven on earth" */*`
+using a grep command with a wildcard.  e.g. `grep "Earlham is on earth but not necessarily heaven on earth" */*`
   6. you now have your own local version of this repository.  
   7. change your working directoy back to base of the one you made in 3.  Now clone the HackaMol repository: `git clone https://github.com/demianriccardi/HackaMol.git` and then look around.  There is a directory of examples that you will be able to play with once you have more tools.
   8. Once you are ready to take the plunge, create a GitHub account!
